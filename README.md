@@ -24,7 +24,7 @@
     
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
     
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://leetcode.com/polina8952/)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ross_child)
  </div>
 
   ### :hammer_and_wrench: Languages and Tools :
